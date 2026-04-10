@@ -1,1 +1,1 @@
-# Struktur_Data_Quis_1
+# StrukturData-Q1-2501010076-Budiarta-C
